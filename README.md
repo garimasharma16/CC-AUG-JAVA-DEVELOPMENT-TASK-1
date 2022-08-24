@@ -22,7 +22,6 @@ This is a project for developing an online survey system using Java. The focus o
 ## THANK YOU PAGE-
 ![image](https://user-images.githubusercontent.com/110285910/186396649-8f3a212e-c0f1-4cbf-9aff-7b88e9b3b2e1.png)
 
-<p> by clicking on the above given link the result of the survey is shown in piechart.</p>
 ## RESULT PAGE-
 ![image](https://user-images.githubusercontent.com/110285910/186397564-181a4e81-85f5-40fc-980b-4b8aa921af3f.png)
 
